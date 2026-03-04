@@ -7,7 +7,7 @@ This project was built as a learning exercise to practice frontend development, 
 
 ## Project Structure
 
-
+```
 .
 ├── src/
 │   ├── components/
@@ -19,7 +19,7 @@ This project was built as a learning exercise to practice frontend development, 
 ├── package.json
 ├── .gitignore
 └── README.md
-
+```
 ## Technologies Used
 
 - JavaScript
